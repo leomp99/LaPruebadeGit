@@ -3,5 +3,6 @@ body{
 	color: red;
 }
 header{
-	background-color: yellow;
+	background: blue;
+	color: white;
 }
