@@ -2,6 +2,12 @@ body{
 	text-align: center;
 	color: red;
 }
+<<<<<<< HEAD
 p{
 	color: black;
+=======
+header{
+	background: blue;
+	color: white;
+>>>>>>> cabecera
 }
